@@ -1,0 +1,7 @@
+llama-index
+google-generativeai
+chromadb
+python-dotenv
+llama-index-vector-stores-chroma
+llama-index-embeddings-gemini
+streamlit
